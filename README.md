@@ -36,7 +36,7 @@ An 8-page Power BI dashboard that monitors regulatory risk and control effective
 CSV source files → SQL Server (database: DoddFrank_Project) → Power BI (Power Query) → Star-schema model → DAX measures → Report
 ```
 
-- Tables are created with `CREATE TABLE` scripts (see `/sql`) and loaded into SQL Server.
+- Tables are created with `CREATE TABLE` scripts (see `/SQL`) and loaded into SQL Server.
 - Power Query adds risk-level mapping tables and standardizes Regulation IDs and names.
 - Data quality checks: row counts and null checks after each load.
 
@@ -141,11 +141,11 @@ Volcker_Adherence_Percentage =
 ## Repository Structure
 
 ```
-├── Dodd_Frank_Dashboard_Final.pbix
-├── README.md
-├── /data         CSV source files
-├── /sql          CREATE TABLE scripts
-└── /Screenshots  one image per page + model view
+├── Data/          CSV source files (synthetic)
+├── Power BI/      Dodd_Frank_Dashboard_Final_2026-10-10.pbix
+├── SQL/           create_tables.sql, Bulk_insert.sql
+├── Screenshots/   one image per page + model view
+└── README.md
 ```
 
 ---
