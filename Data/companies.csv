@@ -1,0 +1,11 @@
+company_id,company_name,industry,total_assets_usd,risk_category,head_quarters,state,year
+101,JPMorgan Chase,Commercial Banking,4400000000,High,New York,NY,2014
+102,Bank of America,Commercial Banking,4000000000,High,Charlotte,NC,2015
+103,Citigroup,Commercial Banking,2600000000,High,New York,NY,2016
+104,Wells Fargo,Commercial Banking,2400000000,Medium,San Francisco,CA,2017
+105,Goldman Sachs,Investment Banking,1700000000,High,New York,NY,2018
+106,Morgan Stanley,Investment Banking,1500000000,Medium,New York,NY,2019
+107,PNC Financial,Commercial Banking,1200000000,Medium,Pittsburgh,PA,2020
+108,US Bancorp,Commercial Banking,920000000,Medium,Minneapolis,MN,2021
+109,Truist Financial,Commercial Banking,820000000,Medium,Charlotte,NC,2022
+110,Capital One,Commercial Banking,720000000,Medium,McLean,VA,2023

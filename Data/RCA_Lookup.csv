@@ -1,0 +1,25 @@
+RCA_ID,Regulation_ID,Regulation_Name,Violation_Category,Primary_Root_Cause,Control_Gap,Corrective_Action,Risk_Level,Is_Violation
+RCA001,R001,Volcker Rule,Non-Compliant Trades,Compliance Monitoring Failure,Ineffective pre-trade monitoring and algorithmic filter restrictions,Implement real-time automated trading blocks on prohibited fund exposures,High,Y
+RCA002,R001,Volcker Rule,Exposure Limit Breach,Credit Oversight Failure,Inadequate real-time exposure alert thresholds,Deploy dynamic exposure monitoring dashboards with immediate warning triggers,High,Y
+RCA003,R001,Volcker Rule,Missing Trade Documentation,Training Gaps,Absent trade record-keeping and change-management trails,Conduct mandatory compliance training and implement document audit checks,Low,Y
+RCA004,R002,Dodd-Frank Act,Credit Reporting,Data Quality Issues,Weak data validation and reconciliation controls,Strengthen data validation rules and automated data quality checks,High,Y
+RCA005,R002,Dodd-Frank Act,Disclosure Violation,Documentation Gaps,Incomplete documentation review controls,Improve documentation standards and compliance review process,Medium,Y
+RCA006,R002,Dodd-Frank Act,Consumer Complaint,Weak Internal Controls,Ineffective complaint monitoring and escalation controls,Enhance complaint management controls and oversight,Medium,Y
+RCA007,R002,Dodd-Frank Act,Unfair Lending,Policy Non-Compliance,Inconsistent application of lending policies,Strengthen policy governance monitoring and employee training,High,Y
+RCA008,R002,Dodd-Frank Act,Servicing Error,Manual Processing Error,Excessive manual intervention and processing dependency,Increase automation and introduce quality assurance checks,Low,Y
+RCA009,R003,Enterprise Compliance,Access Violation,Broken Provisioning Process,Ineffective user access reviews and segregation of duties controls,Automate de-provisioning workflows and execute quarterly access attestation reviews,High,Y
+RCA010,R003,Enterprise Compliance,Reconciliation Exception,System Interface Discrepancy,Inadequate automated ledger alignment and error handling rules,Implement automated nightly data validation reconciliation scripts,Medium,Y
+RCA011,R003,Enterprise Compliance,Late Filing,Scheduling / Resource Gaps,Ineffective timeline tracking and regulatory calendar notifications,Deploy automated calendar milestone trackers with clear escalation paths,Medium,Y
+RCA012,R004,SOX Compliance,Financial Reporting Control,Inadequate Review Controls,Weak management review over financial close and journal entries,Enforce maker-checker review and documented sign-off on all close adjustments,High,Y
+RCA013,R004,SOX Compliance,Access Control,Excessive Privileged Access,Infrequent review of privileged accounts on financial systems,Implement privileged access management with monthly certification,High,Y
+RCA014,R004,SOX Compliance,Segregation of Duties,Conflicting Role Assignments,Incompatible roles granted without SoD conflict checks,Deploy automated SoD conflict screening at role assignment,Medium,Y
+RCA020,R004,SOX Compliance,Transaction Approval,Approval Workflow Bypass,Manual postings allowed outside the approval workflow,Enforce workflow-based approvals and block unapproved postings,Medium,Y
+RCA015,R005,Dodd-Frank stress test,DFAST Capital Adequacy,Inadequate Capital Buffers,Misaligned risk exposure assumptions in financial forecasting models,Recalibrate macroeconomic stress models and optimize high-grade capital reserves,High,Y
+RCA016,R006,Loan Limit Validation,Loan Limit Breach,Policy Non-Compliance,Loan limit thresholds not enforced at origination,Hard-code conforming limit checks into the loan origination system,High,Y
+RCA017,R003,Enterprise Compliance,Override Risk,Management Override,Lack of secondary review for critical control exemptions,Implement independent oversight and mandatory dual-authorization workflows,High,Y
+RCA018,R003,Enterprise Compliance,Exception Approval Risk,Operational Process Gaps,Missing formalized documentation requirements for approval exceptions,Deploy standardized digital authorization templates with strict criteria logs,Medium,Y
+RCA019,R003,Enterprise Compliance,Documentation Risk,Training Gaps,Absent change-management and record-keeping trails,Conduct mandatory compliance training and implement document audit checks,Low,Y
+RCA021,R001,Volcker Rule,No Violation,Control Operating Effectively,None identified,Continue periodic control testing and monitoring,Low,N
+RCA022,R004,SOX Compliance,No Violation,Control Operating Effectively,None identified,Continue periodic control testing and monitoring,Low,N
+RCA023,R005,Dodd-Frank stress test,No Violation,Control Operating Effectively,None identified,Continue periodic control testing and monitoring,Low,N
+RCA024,R006,Loan Limit Validation,No Violation,Control Operating Effectively,None identified,Continue periodic control testing and monitoring,Low,N

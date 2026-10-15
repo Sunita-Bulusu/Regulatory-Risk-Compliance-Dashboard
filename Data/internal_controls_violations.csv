@@ -1,0 +1,31 @@
+company_id,company_name,violation_count,violation_category,violation_year,Regulation_ID,Regulation_Name,RCA_ID,Risk_Level
+101,JPMorgan Chase,4,Reconciliation Exception,2015,R003,Enterprise Compliance,RCA010,Medium
+101,JPMorgan Chase,12,Reconciliation Exception,2014,R003,Enterprise Compliance,RCA010,Medium
+101,JPMorgan Chase,11,Access Violation,2018,R003,Enterprise Compliance,RCA009,High
+102,Bank of America,1,Access Violation,2022,R003,Enterprise Compliance,RCA009,High
+102,Bank of America,4,Access Violation,2015,R003,Enterprise Compliance,RCA009,High
+102,Bank of America,9,Reconciliation Exception,2020,R003,Enterprise Compliance,RCA010,Medium
+103,Citigroup,11,Override Risk,2023,R003,Enterprise Compliance,RCA017,High
+103,Citigroup,9,Override Risk,2014,R003,Enterprise Compliance,RCA017,High
+103,Citigroup,4,Documentation Risk,2017,R003,Enterprise Compliance,RCA019,Low
+104,Wells Fargo,12,Reconciliation Exception,2021,R003,Enterprise Compliance,RCA010,Medium
+104,Wells Fargo,6,Documentation Risk,2018,R003,Enterprise Compliance,RCA019,Low
+104,Wells Fargo,3,Late Filing,2014,R003,Enterprise Compliance,RCA011,Medium
+105,Goldman Sachs,7,Access Violation,2017,R003,Enterprise Compliance,RCA009,High
+105,Goldman Sachs,6,Access Violation,2019,R003,Enterprise Compliance,RCA009,High
+105,Goldman Sachs,10,Late Filing,2015,R003,Enterprise Compliance,RCA011,Medium
+106,Morgan Stanley,2,Exception Approval Risk,2018,R003,Enterprise Compliance,RCA018,Medium
+106,Morgan Stanley,2,Documentation Risk,2014,R003,Enterprise Compliance,RCA019,Low
+106,Morgan Stanley,5,Exception Approval Risk,2021,R003,Enterprise Compliance,RCA018,Medium
+107,PNC Financial,2,Override Risk,2023,R003,Enterprise Compliance,RCA017,High
+107,PNC Financial,11,Access Violation,2019,R003,Enterprise Compliance,RCA009,High
+107,PNC Financial,5,Reconciliation Exception,2017,R003,Enterprise Compliance,RCA010,Medium
+108,US Bancorp,5,Documentation Risk,2015,R003,Enterprise Compliance,RCA019,Low
+108,US Bancorp,11,Documentation Risk,2017,R003,Enterprise Compliance,RCA019,Low
+108,US Bancorp,3,Late Filing,2023,R003,Enterprise Compliance,RCA011,Medium
+109,Truist Financial,5,Override Risk,2019,R003,Enterprise Compliance,RCA017,High
+109,Truist Financial,11,Override Risk,2023,R003,Enterprise Compliance,RCA017,High
+109,Truist Financial,2,Override Risk,2017,R003,Enterprise Compliance,RCA017,High
+110,Capital One,8,Reconciliation Exception,2023,R003,Enterprise Compliance,RCA010,Medium
+110,Capital One,5,Documentation Risk,2016,R003,Enterprise Compliance,RCA019,Low
+110,Capital One,12,Override Risk,2017,R003,Enterprise Compliance,RCA017,High

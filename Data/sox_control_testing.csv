@@ -1,0 +1,101 @@
+control_id,company_id,control_name,control_type,test_year,tester_name,test_result,issue_severity,remediation_status,violation_category,Regulation_ID,Regulation_Name,RCA_ID,Risk_Level
+1,101,Segregation of Duties,ITGC,2014,David Lee,Fail,Low,Closed,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+2,101,Access Control,ITGC,2015,David Lee,Fail,Medium,In Progress,Access Control,R004,SOX Compliance,RCA013,High
+3,101,Transaction Approval,ITGC,2016,John Miller,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+4,101,Financial Reporting Control,ITGC,2017,Priya Shah,Fail,Low,Closed,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+5,101,Segregation of Duties,ITGC,2018,Priya Shah,Fail,Low,Open,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+6,101,Transaction Approval,Automated,2019,David Lee,Fail,Low,In Progress,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+7,101,Transaction Approval,Automated,2020,Alice Smith,Pass,Low,Open,No Violation,R004,SOX Compliance,RCA022,Low
+8,101,Transaction Approval,ITGC,2021,Alice Smith,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+9,101,Transaction Approval,Automated,2022,David Lee,Fail,Medium,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+10,101,Segregation of Duties,ITGC,2023,John Miller,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+11,102,Transaction Approval,ITGC,2014,David Lee,Fail,Medium,Open,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+12,102,Transaction Approval,ITGC,2015,Alice Smith,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+13,102,Segregation of Duties,Manual,2016,John Miller,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+14,102,Transaction Approval,Manual,2017,Alice Smith,Fail,Low,Open,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+15,102,Transaction Approval,Manual,2018,Priya Shah,Fail,Low,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+16,102,Transaction Approval,ITGC,2019,David Lee,Fail,Medium,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+17,102,Access Control,ITGC,2020,Alice Smith,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+18,102,Transaction Approval,ITGC,2021,David Lee,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+19,102,Segregation of Duties,ITGC,2022,John Miller,Fail,Low,Closed,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+20,102,Transaction Approval,Automated,2023,John Miller,Pass,Low,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+21,103,Financial Reporting Control,ITGC,2014,Priya Shah,Fail,High,Open,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+22,103,Financial Reporting Control,ITGC,2015,Priya Shah,Fail,High,Closed,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+23,103,Transaction Approval,Manual,2016,David Lee,Fail,Medium,Open,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+24,103,Access Control,Manual,2017,David Lee,Fail,High,Open,Access Control,R004,SOX Compliance,RCA013,High
+25,103,Segregation of Duties,Automated,2018,David Lee,Fail,High,In Progress,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+26,103,Segregation of Duties,Manual,2019,Priya Shah,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+27,103,Financial Reporting Control,Automated,2020,John Miller,Fail,Low,In Progress,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+28,103,Access Control,ITGC,2021,David Lee,Pass,Low,Open,No Violation,R004,SOX Compliance,RCA022,Low
+29,103,Transaction Approval,Automated,2022,Alice Smith,Pass,Low,Open,No Violation,R004,SOX Compliance,RCA022,Low
+30,103,Access Control,ITGC,2023,John Miller,Fail,Medium,In Progress,Access Control,R004,SOX Compliance,RCA013,High
+31,104,Transaction Approval,Automated,2014,Priya Shah,Pass,Low,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+32,104,Transaction Approval,Automated,2015,David Lee,Fail,High,In Progress,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+33,104,Financial Reporting Control,ITGC,2016,David Lee,Fail,Low,Closed,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+34,104,Access Control,ITGC,2017,John Miller,Fail,Medium,Closed,Access Control,R004,SOX Compliance,RCA013,High
+35,104,Access Control,Automated,2018,David Lee,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+36,104,Transaction Approval,ITGC,2019,Priya Shah,Pass,Low,Open,No Violation,R004,SOX Compliance,RCA022,Low
+37,104,Access Control,Automated,2020,John Miller,Fail,Low,Closed,Access Control,R004,SOX Compliance,RCA013,High
+38,104,Access Control,Automated,2021,John Miller,Fail,Low,Closed,Access Control,R004,SOX Compliance,RCA013,High
+39,104,Access Control,Manual,2022,David Lee,Pass,Low,Open,No Violation,R004,SOX Compliance,RCA022,Low
+40,104,Access Control,Manual,2023,David Lee,Fail,Medium,In Progress,Access Control,R004,SOX Compliance,RCA013,High
+41,105,Financial Reporting Control,Manual,2014,Alice Smith,Fail,High,In Progress,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+42,105,Financial Reporting Control,ITGC,2015,Alice Smith,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+43,105,Access Control,Automated,2016,John Miller,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+44,105,Financial Reporting Control,Automated,2017,Priya Shah,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+45,105,Access Control,Manual,2018,Priya Shah,Fail,High,In Progress,Access Control,R004,SOX Compliance,RCA013,High
+46,105,Segregation of Duties,ITGC,2019,Priya Shah,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+47,105,Transaction Approval,Manual,2020,David Lee,Fail,High,In Progress,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+48,105,Access Control,ITGC,2021,David Lee,Fail,Medium,Open,Access Control,R004,SOX Compliance,RCA013,High
+49,105,Access Control,Automated,2022,Priya Shah,Fail,Low,Closed,Access Control,R004,SOX Compliance,RCA013,High
+50,105,Financial Reporting Control,Automated,2023,Priya Shah,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+51,106,Financial Reporting Control,Automated,2014,David Lee,Pass,Low,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+52,106,Access Control,Manual,2015,John Miller,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+53,106,Financial Reporting Control,Automated,2016,Alice Smith,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+54,106,Transaction Approval,Manual,2017,Alice Smith,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+55,106,Financial Reporting Control,Manual,2018,John Miller,Pass,Medium,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+56,106,Segregation of Duties,Automated,2019,John Miller,Fail,Low,In Progress,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+57,106,Transaction Approval,Manual,2020,Priya Shah,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+58,106,Transaction Approval,Manual,2021,David Lee,Fail,Medium,Open,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+59,106,Financial Reporting Control,ITGC,2022,John Miller,Fail,High,Open,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+60,106,Financial Reporting Control,Automated,2023,John Miller,Fail,High,Open,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+61,107,Access Control,Manual,2014,Alice Smith,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+62,107,Segregation of Duties,ITGC,2015,John Miller,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+63,107,Access Control,Automated,2016,John Miller,Fail,Low,Closed,Access Control,R004,SOX Compliance,RCA013,High
+64,107,Access Control,Manual,2017,Alice Smith,Fail,Medium,In Progress,Access Control,R004,SOX Compliance,RCA013,High
+65,107,Access Control,Manual,2018,David Lee,Fail,High,Open,Access Control,R004,SOX Compliance,RCA013,High
+66,107,Segregation of Duties,ITGC,2019,Priya Shah,Fail,Low,Closed,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+67,107,Access Control,Manual,2020,Alice Smith,Fail,Low,Open,Access Control,R004,SOX Compliance,RCA013,High
+68,107,Transaction Approval,Automated,2021,David Lee,Fail,Low,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+69,107,Transaction Approval,ITGC,2022,David Lee,Fail,Low,In Progress,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+70,107,Access Control,ITGC,2023,Alice Smith,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+71,108,Financial Reporting Control,ITGC,2014,John Miller,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+72,108,Transaction Approval,Automated,2015,Priya Shah,Fail,Low,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+73,108,Segregation of Duties,Automated,2016,David Lee,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+74,108,Segregation of Duties,Manual,2017,Priya Shah,Fail,High,In Progress,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+75,108,Segregation of Duties,ITGC,2018,David Lee,Fail,High,In Progress,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+76,108,Transaction Approval,Automated,2019,David Lee,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+77,108,Segregation of Duties,ITGC,2020,John Miller,Pass,High,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+78,108,Access Control,Automated,2021,Priya Shah,Fail,Medium,Closed,Access Control,R004,SOX Compliance,RCA013,High
+79,108,Transaction Approval,Manual,2022,David Lee,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+80,108,Transaction Approval,Automated,2023,Priya Shah,Fail,Low,Closed,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+81,109,Segregation of Duties,Manual,2014,Priya Shah,Fail,High,In Progress,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+82,109,Segregation of Duties,ITGC,2015,John Miller,Pass,High,Open,No Violation,R004,SOX Compliance,RCA022,Low
+83,109,Financial Reporting Control,ITGC,2016,David Lee,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+84,109,Segregation of Duties,Automated,2017,Alice Smith,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+85,109,Financial Reporting Control,Manual,2018,John Miller,Fail,High,Open,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+86,109,Transaction Approval,Manual,2019,David Lee,Fail,Medium,Open,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+87,109,Financial Reporting Control,ITGC,2020,Alice Smith,Fail,Medium,Closed,Financial Reporting Control,R004,SOX Compliance,RCA012,High
+88,109,Segregation of Duties,ITGC,2021,Priya Shah,Pass,Low,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+89,109,Segregation of Duties,Manual,2022,Alice Smith,Fail,Medium,Open,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+90,109,Access Control,ITGC,2023,David Lee,Pass,Low,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+91,110,Access Control,Automated,2014,Alice Smith,Fail,Medium,Closed,Access Control,R004,SOX Compliance,RCA013,High
+92,110,Access Control,ITGC,2015,Alice Smith,Pass,Medium,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+93,110,Access Control,Automated,2016,John Miller,Fail,High,Open,Access Control,R004,SOX Compliance,RCA013,High
+94,110,Transaction Approval,Manual,2017,John Miller,Fail,Low,In Progress,Transaction Approval,R004,SOX Compliance,RCA020,Medium
+95,110,Segregation of Duties,ITGC,2018,John Miller,Fail,High,Open,Segregation of Duties,R004,SOX Compliance,RCA014,Medium
+96,110,Access Control,ITGC,2019,Priya Shah,Pass,High,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+97,110,Transaction Approval,Manual,2020,David Lee,Pass,Medium,Open,No Violation,R004,SOX Compliance,RCA022,Low
+98,110,Transaction Approval,Automated,2021,Priya Shah,Pass,Medium,Closed,No Violation,R004,SOX Compliance,RCA022,Low
+99,110,Access Control,ITGC,2022,John Miller,Pass,Low,In Progress,No Violation,R004,SOX Compliance,RCA022,Low
+100,110,Transaction Approval,Manual,2023,John Miller,Pass,Low,In Progress,No Violation,R004,SOX Compliance,RCA022,Low

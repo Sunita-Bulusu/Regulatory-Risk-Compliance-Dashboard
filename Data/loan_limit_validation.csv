@@ -1,0 +1,101 @@
+company_id,company_name,validation_year,validation_amount,validation_type,violation_category,Regulation_ID,Regulation_Name,RCA_ID,Risk_Level
+101,JPMorgan Chase,2014,850000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2015,870000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2016,920000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+101,JPMorgan Chase,2017,940000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2018,970000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2019,990000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+101,JPMorgan Chase,2020,1020000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2021,1050000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+101,JPMorgan Chase,2022,1080000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+101,JPMorgan Chase,2023,1100000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2014,780000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2015,800000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2016,830000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+102,Bank of America,2017,860000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2018,890000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2019,910000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+102,Bank of America,2020,940000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2021,970000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+102,Bank of America,2022,1000000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+102,Bank of America,2023,1030000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2014,720000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2015,750000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+103,Citigroup,2016,780000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2017,800000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2018,830000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+103,Citigroup,2019,860000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2020,890000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2021,920000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+103,Citigroup,2022,950000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+103,Citigroup,2023,980000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2014,700000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2015,730000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2016,760000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+104,Wells Fargo,2017,790000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2018,820000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2019,850000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+104,Wells Fargo,2020,880000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2021,910000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+104,Wells Fargo,2022,940000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+104,Wells Fargo,2023,970000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2014,650000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2015,680000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+105,Goldman Sachs,2016,710000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2017,740000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2018,770000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+105,Goldman Sachs,2019,800000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2020,830000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2021,860000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+105,Goldman Sachs,2022,890000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+105,Goldman Sachs,2023,920000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2014,640000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2015,670000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2016,700000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+106,Morgan Stanley,2017,730000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2018,760000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2019,790000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+106,Morgan Stanley,2020,820000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2021,850000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+106,Morgan Stanley,2022,880000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+106,Morgan Stanley,2023,910000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2014,500000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2015,530000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2016,560000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+107,PNC Financial,2017,590000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2018,620000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2019,650000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+107,PNC Financial,2020,680000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2021,710000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+107,PNC Financial,2022,740000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+107,PNC Financial,2023,770000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2014,480000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2015,510000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+108,US Bancorp,2016,540000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2017,570000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2018,600000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+108,US Bancorp,2019,630000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2020,660000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2021,690000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+108,US Bancorp,2022,720000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+108,US Bancorp,2023,750000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2014,460000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2015,490000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2016,520000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+109,Truist Financial,2017,550000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2018,580000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2019,610000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+109,Truist Financial,2020,640000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2021,670000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+109,Truist Financial,2022,700000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+109,Truist Financial,2023,730000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2014,450000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2015,480000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+110,Capital One,2016,510000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2017,540000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2018,570000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+110,Capital One,2019,600000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2020,630000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2021,660000,Breach,Loan Limit Breach,R006,Loan Limit Validation,RCA016,High
+110,Capital One,2022,690000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
+110,Capital One,2023,720000,Approved,No Violation,R006,Loan Limit Validation,RCA024,Low
