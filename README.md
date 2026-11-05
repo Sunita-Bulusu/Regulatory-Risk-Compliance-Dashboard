@@ -66,7 +66,7 @@ Total_Regulatory_Issues =
     [Total Violations]                 -- CFPB violations
   + [Sox_Fail_count]                   -- SOX control test failures
   + [Volcker_NonCompliant_count]       -- Volcker non-compliant trades
-  + [companies_failed]                 -- stress test failures
+  + [Stress_Fail_Count]                 -- stress test failures
   + [Loan_Limit_Breaches]              -- conforming loan limit breaches
   + CALCULATE(
         COUNTROWS(internal_controls_violations),
@@ -142,7 +142,7 @@ Volcker_Adherence_Percentage =
 
 ```
 ├── Data/          CSV source files (synthetic)
-├── Power BI/      Dodd_Frank_Dashboard_Final_2026-10-10.pbix
+├── Power BI/      Dodd_Frank_Compliance_Intelligence_Dashboard.pbix
 ├── SQL/           create_tables.sql, Bulk_insert.sql
 ├── Screenshots/   one image per page + model view
 └── README.md
@@ -153,7 +153,7 @@ Volcker_Adherence_Percentage =
 ## Future Enhancements
 
 - Resolution Plans (Dodd-Frank Title I, Section 165(d)) as a seventh regulatory area
-- Automated SOX control testing in Python against the SQL Server tables
+- - Automated SOX control testing: built as a separate project ([Automated-SOX-Control-Testing](https://github.com/Sunita-Bulusu/Automated-SOX-Control-Testing))
 - Scheduled refresh through the Power BI Service
 
 ---
